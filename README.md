@@ -6,13 +6,9 @@
 
 ## 🙋‍♂️ About Me
 
-- 🌱 I’m currently learning **Mobile Programming and Python**
-
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
 - 📫 How to reach me **kayamustafamert@gmail.com**
-
-- ⚡ Fun fact **I play games and go to the GYM very often.**
 
 ## 🚀 Languages and Tools:
 
